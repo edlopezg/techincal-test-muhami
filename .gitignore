@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# Dependencias de desarrollo
+npm-debug.log
+yarn-error.log
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Archivos de entorno
+.env
+.env.example
+.DS_Store
+
+# Archivos de base de datos locales, si los tienes
+db/
